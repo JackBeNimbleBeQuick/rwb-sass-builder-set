@@ -1,5 +1,6 @@
 # Project Title
 >  SASS within the TUC pattern
+>  adding npm-watch and serve to for automation
 
 * responsive sass build that supports custom grid settings
 * lite weight sass based grid with variables, mixes, and some standard container definitions
