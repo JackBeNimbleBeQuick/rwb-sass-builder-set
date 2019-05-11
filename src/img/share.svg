@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Share</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,9.9999 C20.104,9.9999 21,10.8329 21,11.8569 L21,21.1429 C21,22.1669 20.104,22.9999 19,22.9999 L5,22.9999 C3.897,22.9999 3,22.1669 3,21.1429 L3,11.8569 C3,10.8329 3.897,9.9999 5,9.9999 L8,9.9999 L8,11.9999 L5,11.9999 L5,20.9879 L19,20.9999 L19,12.0119 L16,11.9999 L16,9.9999 L19,9.9999 Z M11,4.828 L8.464,7.364 L7.05,5.95 L12,1 L16.95,5.95 L15.536,7.364 L13,4.828 L13,16 L11,16 L11,4.828 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-1" fill="#231F20" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

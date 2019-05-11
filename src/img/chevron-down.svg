@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Chevron / Down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,8.9999 C3,8.7439 3.098,8.4879 3.293,8.2929 C3.684,7.9019 4.316,7.9019 4.707,8.2929 L12,15.5859 L19.293,8.2929 C19.684,7.9019 20.316,7.9019 20.707,8.2929 C21.098,8.6839 21.098,9.3159 20.707,9.7069 L12.707,17.7069 C12.316,18.0979 11.684,18.0979 11.293,17.7069 L3.293,9.7069 C3.098,9.5119 3,9.2559 3,8.9999 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Chevron-/-Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-1" fill="#231F20" xlink:href="#path-1"></use>
+        <rect id="Rectangle" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Calendar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4,21 L20,21 L20,8 L4,8 L4,21 Z M20,3 C21.104,3 22,3.896 22,5 L22,21 C22,22.104 21.104,23 20,23 L4,23 C2.896,23 2,22.104 2,21 L2,5 C2,3.896 2.896,3 4,3 L6,3 L6,1 L8,1 L8,3 L16,3 L16,1 L18,1 L18,3 L20,3 Z M6,12 L6,10 L8,10 L8,12 L6,12 Z M16,12 L16,10 L18,10 L18,12 L16,12 Z M6,16 L6,14 L8,14 L8,16 L6,16 Z M11,12 L11,10 L13,10 L13,12 L11,12 Z M11,16 L11,14 L13,14 L13,16 L11,16 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#231F20" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

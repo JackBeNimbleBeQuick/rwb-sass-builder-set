@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Chevron / Up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.999775,14.999875 C2.999775,14.743875 3.097775,14.487875 3.292775,14.292875 L11.292775,6.292875 C11.683775,5.901875 12.315775,5.901875 12.706775,6.292875 L20.706775,14.292875 C21.097775,14.683875 21.097775,15.315875 20.706775,15.706875 C20.315775,16.097875 19.683775,16.097875 19.292775,15.706875 L11.999775,8.413875 L4.706775,15.706875 C4.315775,16.097875 3.683775,16.097875 3.292775,15.706875 C3.097775,15.511875 2.999775,15.255875 2.999775,14.999875 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Chevron-/-Up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Path" fill="#FFFFFF" xlink:href="#path-1"></use>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

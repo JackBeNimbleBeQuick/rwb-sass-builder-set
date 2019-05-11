@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Caution</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.73444728,20 L21.2655527,20 L12,3.99586349 L2.73444728,20 Z M2.73444728,22 C2.3825621,22 2.03690543,21.9071598 1.73237474,21.7308526 C0.776451264,21.1774232 0.450165331,19.9538509 1.00359471,18.9979275 L10.2691474,2.99379095 C10.4442345,2.69136791 10.6955044,2.44009794 10.9979275,2.26501092 C11.9538509,1.71158154 13.1774232,2.03786747 13.7308526,2.99379095 L22.9964053,18.9979275 C23.1727125,19.3024581 23.2655527,19.6481148 23.2655527,20 C23.2655527,21.1045695 22.3701222,22 21.2655527,22 L2.73444728,22 Z M13,18 L11,18 L11,16 L13,16 L13,18 Z M13,13.9956976 L11,13.9956976 L11,8.99569763 L13,8.99569763 L13,13.9956976 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Caution" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

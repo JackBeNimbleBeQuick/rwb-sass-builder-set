@@ -1,0 +1,57 @@
+
+/* section: OMNI / COMPONENTS */
+
+/* TOGGLE STYLES */
+
+/* INPUT STYLES */
+
+input[type=radio]{
+  position: relative;
+  top: -0.5em;
+}
+input[type=radio]:after{
+  border-radius: 50%;
+  border-style: inset;
+  content: '';
+  display: inline-block;
+  background-color: $white;
+  border: 2px solid $grey-60;
+  font-size: 1.5em;
+  height: 1em;
+  left: -0.25em;
+  position: relative;
+  top: -0.25em;
+  visibility: visible;
+  width: 1em;
+}
+input[type=radio]:checked:after{
+  background-color: $lite-blue;
+}
+
+
+/* BUTTON STYLES */
+
+button[type=submit], button[type=button]{
+  border-radius: 3pt;
+  margin: 0.75em;
+  padding: 1.5em 0;
+  width: 215pt;
+}
+button[type=submit]{
+  background-color: $lite-blue;
+  color: #fff;
+}
+button[type=button]{
+  background-color: transparent;
+  border-color: $lite-blue;
+  color: $lite-blue;
+}
+
+
+/* MEDIA CONSTRAINTS */
+@media( min-width: 0) and ( max-width: 576pt){
+  button[type=submit], button[type=button]{
+    width: 100%;
+    margin: 0.75em 0;
+  }
+}

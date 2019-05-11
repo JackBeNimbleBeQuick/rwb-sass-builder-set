@@ -1,0 +1,48 @@
+// grid variables
+$grid-columns: 12;
+$max-size: 1024;
+$grids:(
+  xl:64000,
+  lg:1200,
+  md:960,
+  sm:768,
+  xs:568,
+);
+$framing:(
+  lg:(1201, 6400),
+  md:(960,1200),
+  sm:(568,959),
+  xs:(0, 567),
+);
+$alignments:(
+  'left','center','right',
+);
+
+$white: #FFFFFF;
+$white-smoke: #F5F5F5;
+
+$red: #DE162B;
+$blue: #0C2074;
+$lite-blue: #0A41C5;
+$black: #000;
+
+$grey-90: #2C2C2C;
+$grey-80: #555555;
+$grey-70: #6E6E6E;
+$grey-60: #858585;
+$grey-30: #CDCDD3;
+$grey-20: #F2F2F5;
+$grey-10: #F7F7FA;
+
+$blue-grey: #9DA5C7;
+
+//font
+$light-font: 200;
+$normal-font: 300;
+$medium-font: 400;
+$bold-font: 500;
+$heavy-font: 600;
+
+$small-size: 0.8em;
+$normal-size: 1em;
+$large-size: 1.5em;

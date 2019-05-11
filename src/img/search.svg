@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.4997,15.0002 C8.0187,15.0002 5.9997,12.9812 5.9997,10.5002 C5.9997,8.0192 8.0187,6.0002 10.4997,6.0002 C12.9807,6.0002 14.9997,8.0192 14.9997,10.5002 C14.9997,12.9812 12.9807,15.0002 10.4997,15.0002 M19.7227,18.3092 L16.8107,15.3962 C16.5517,15.1382 16.1887,15.0672 15.8577,15.1512 L15.4327,14.7262 C16.4077,13.5892 16.9997,12.1152 16.9997,10.5002 C16.9997,6.9102 14.0897,4.0002 10.4997,4.0002 C6.9097,4.0002 3.9997,6.9102 3.9997,10.5002 C3.9997,14.0902 6.9097,17.0002 10.4997,17.0002 C12.1147,17.0002 13.5887,16.4072 14.7257,15.4332 L15.1507,15.8582 C15.0657,16.1892 15.1377,16.5522 15.3957,16.8112 L18.3087,19.7232 C18.5037,19.9182 18.7597,20.0162 19.0157,20.0162 C19.2707,20.0162 19.5267,19.9182 19.7227,19.7232 C20.1127,19.3322 20.1127,18.6992 19.7227,18.3092" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-1" fill="#231F20" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

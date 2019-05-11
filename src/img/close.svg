@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.4242,12.0102 L18.7272,6.7072 C19.1182,6.3162 19.1182,5.6832 18.7272,5.2932 C18.3372,4.9022 17.7042,4.9022 17.3132,5.2932 L12.0102,10.5962 L6.7072,5.2932 C6.3162,4.9022 5.6832,4.9022 5.2932,5.2932 C4.9022,5.6832 4.9022,6.3162 5.2932,6.7072 L10.5962,12.0102 L5.2932,17.3132 C4.9022,17.7042 4.9022,18.3372 5.2932,18.7272 C5.6832,19.1182 6.3162,19.1182 6.7072,18.7272 L12.0102,13.4242 L17.3132,18.7272 C17.7042,19.1182 18.3372,19.1182 18.7272,18.7272 C19.1182,18.3372 19.1182,17.7042 18.7272,17.3132 L13.4242,12.0102 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-1" fill="#231F20" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

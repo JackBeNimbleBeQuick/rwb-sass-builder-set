@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Sign up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.001,17.9999 L17.083,17.9999 L17.083,15.9999 L7.001,15.9999 L7.001,17.9999 Z M19,19 C19,19.551 18.552,20 18,20 L6,20 C5.448,20 5,19.551 5,19 L5,5 C5,4.449 5.448,4 6,4 L16,4 L16,2 L6,2 C4.346,2 3,3.346 3,5 L3,19 C3,20.654 4.346,22 6,22 L18,22 C19.654,22 21,20.654 21,19 L21,10.996 L19,10.996 L19,19 Z M11.123,11.4351 L18.465,4.0931 L20.824,6.4521 L13.482,13.7941 L11.123,13.7941 L11.123,11.4351 Z M21.6683,2.3041 L22.6133,3.2491 C23.0043,3.6401 23.0043,4.2731 22.6133,4.6631 L21.6473,5.6281 L19.2893,3.2701 L20.2543,2.3041 C20.6443,1.9141 21.2773,1.9141 21.6683,2.3041 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Sign-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-3-Copy" fill="#000000" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

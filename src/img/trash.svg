@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.5,23 C6.122,23 5,21.919 5,20.591 L5,8 L7,8 L7,20.591 C7,20.812 7.229,21 7.5,21 L16.5,21 C16.771,21 17,20.812 17,20.591 L17,8 L19,8 L19,20.591 C19,21.919 17.878,23 16.5,23 L7.5,23 Z M9,4 L15.023,4 L15.023,3 L9,3 L9,4 Z M17,4 L17,2.749 C17,1.768 16.122,1 15,1 L9,1 C7.878,1 7,1.768 7,2.749 L7,4 L4,4 L4,6 L6.953,6 L16.953,6 L20,6 L20,4 L17,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Trash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-1" fill="#231F20" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

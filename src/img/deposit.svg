@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / Quick Actions / Deposit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.5,7.5 L19.5,5.5 L18.5,5.5 L18.5,7.5 L16.5,7.5 L16.5,8.5 L18.5,8.5 L18.5,10.5 L19.5,10.5 L19.5,8.5 L21.5,8.5 L21.5,7.5 L19.5,7.5 Z M14.1000181,7 C14.5632884,4.71775968 16.5810421,3 19,3 C21.7614237,3 24,5.23857625 24,8 C24,10.4189579 22.2822403,12.4367116 20,12.8999819 L20,21 L0,21 L0,7 L14.1000181,7 Z M14.1000181,9 L2,9 L2,19 L18,19 L18,12.8999819 C16.0408696,12.5022994 14.4977006,10.9591304 14.1000181,9 Z M4,11 L10,11 L10,13 L4,13 L4,11 Z M4,15 L16,15 L16,17 L4,17 L4,15 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-Quick-Actions-/-Deposit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Deposit-Icon" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <rect id="🎨-Icon-Color" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

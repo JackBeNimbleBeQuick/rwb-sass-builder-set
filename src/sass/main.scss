@@ -1,0 +1,16 @@
+
+/* Top level shared with all */
+@import 'vars/var';
+@import 'vars/mixes';
+@import 'common/grid';
+
+/* Main styles */
+@import 'common/main';
+
+@import 'domain/omni/servicing';
+@import 'domain/omni/components/buttons';
+@import 'domain/omni/shared';
+
+
+/* comment after initial setup tests & | remove the sheet*/
+@import 'domain/setup';

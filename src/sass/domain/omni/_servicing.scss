@@ -1,0 +1,140 @@
+/** TOGGLE STATES **/
+.claims-sidebar-content{
+  transition: 0.5s ease-in-out all;
+  display: none;
+  &.svc-show-content{
+    display: block;
+  }
+}
+
+
+[class*="-caret"]{
+  background-image: url(../img/chevron-forward-white.svg);
+  background-repeat: no-repeat;
+  display: inline-table;
+  height: 24pt;
+  margin: 0 5pt;
+  position: absolute;
+  right: 1em;
+  transition: 0.5s ease-in-out all;
+  width: 24pt;
+}
+
+.expand [class*="-caret"]{
+  background-image: url(../img/chevron-down-white.svg);
+}
+
+
+/** TOGGLE STATES **/
+.claims-init-feat{
+  transition: 0.5s ease-in-out all;
+  margin: 0 0 2em 0;
+
+  p a[title*=Reset]{
+    color: $lite-blue;
+    display: block;
+    margin: 2em 0;
+    min-width: 200pt;
+    padding: 1em 0;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .claims-content-sidebar{
+    background-color: $grey-20;
+    margin: 0;
+    padding: 1.5em;
+    h2{
+      background-color: $grey-60;
+      color: $white;
+      padding: 0.5em 0.25em;
+    }
+    .claims-sidebar-content{
+      padding: 1em 0.25em;
+      p{
+        color: $grey-60;
+        margin: 0 0 0.5em 0;
+        strong{
+          color: $blue;
+          font-size: 1.2em;
+          display: block;
+          line-height: 1.5;
+        }
+      }
+    }
+  }
+
+  .svc-field-title{
+    color: $grey-90;
+    font-weight: $bold-font;
+  }
+  .claims-content-body{
+    padding: 1.1em;
+    .claims-dispute-type-body{
+      > p{
+        color: $grey-60;
+        margin: 0 0 1em 0;
+      }
+    }
+    form {
+      input[type=text]{
+        border: 1px solid grey;
+        padding: 1em;
+        border-radius: 4pt;
+        margin: 1em 0 1.2em 0.5em;
+        width: 215pt;
+      }
+      p.claims-radio{
+        color: $grey-80;
+        margin: 0.5em 0;
+        label{
+          bottom: 0.35em;
+          left: 5pt;
+          position: relative;
+        }
+      }
+      &.claims-qualifier-form{
+        .svc-padding-element{
+          margin: 0.5em 0;
+          .svc-field-title{
+            color: $grey-90;
+            font-size: 1.1em;
+            display: block;
+            margin: 0 0 .5em 0;
+          }
+          p.claims-radio{
+            float: left;
+            width: 100%;
+            input{
+              float: left;
+              top: 0.75em;
+              z-index: 1;
+            }
+            label{
+              display: block;
+              float: left;
+              left: 0.5em;
+              position: relative;
+              top: 4pt;
+              width: 85%;
+            }
+          }
+        }
+      }
+      .svc-button-margin{
+        top: 2em;
+        position: relative;
+      }
+    }
+  }
+}
+
+
+
+/* MEDIA CONSTRAINTS */
+@media( min-width: 0) and ( max-width: 576pt){
+  .claims-init-feat .claims-content-body form input[type=text]{
+    width: 85%;
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / System / Bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.5,2.997 C6.224,2.997 6,3.221 6,3.496 L6,20.465 L11.066,16.44 C11.616,16.004 12.383,16.003 12.934,16.439 L18,20.465 L18,3.496 C18,3.221 17.776,2.997 17.5,2.997 L6.5,2.997 Z M4.849,22.849 C4.325,22.597 4,22.08 4,21.5 L4,3.496 C4,2.12 5.122,1 6.5,1 L17.5,1 C18.878,1 20,2.12 20,3.496 L20,21.5 C20,22.08 19.675,22.597 19.151,22.849 C18.63,23.101 18.021,23.034 17.566,22.671 L12,18.25 L6.434,22.672 C6.162,22.888 5.834,22.999 5.503,22.999 C5.281,22.999 5.058,22.95 4.849,22.849 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-System-/-Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-1" fill="#231F20" xlink:href="#path-1"></use>
+        <rect id="Rectangle-5" fill="#2C2C2C" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>
