@@ -8,9 +8,9 @@
 @import 'common/main';
 
 @import 'domain/omni/servicing';
+@import 'domain/omni/servicing-progress';
 @import 'domain/omni/components/buttons';
 @import 'domain/omni/shared';
-
 
 /* comment after initial setup tests & | remove the sheet*/
 @import 'domain/setup';

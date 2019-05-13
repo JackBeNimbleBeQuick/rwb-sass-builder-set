@@ -7,6 +7,9 @@
   }
 }
 
+.svc-sr-only{
+  display: none;
+}
 
 [class*="-caret"]{
   background-image: url(../img/chevron-forward-white.svg);
@@ -15,7 +18,7 @@
   height: 24pt;
   margin: 0 5pt;
   position: absolute;
-  right: 1em;
+  right: 0.5em;
   transition: 0.5s ease-in-out all;
   width: 24pt;
 }
@@ -30,7 +33,7 @@
   transition: 0.5s ease-in-out all;
   margin: 0 0 2em 0;
 
-  p a[title*=Reset]{
+  p a{
     color: $lite-blue;
     display: block;
     margin: 2em 0;
@@ -44,7 +47,7 @@
   .claims-content-sidebar{
     background-color: $grey-20;
     margin: 0;
-    padding: 1.5em;
+    padding: 1em;
     h2{
       background-color: $grey-60;
       color: $white;
@@ -67,7 +70,9 @@
 
   .svc-field-title{
     color: $grey-90;
+    display: block;
     font-weight: $bold-font;
+    margin-top: 2em;
   }
   .claims-content-body{
     padding: 1.1em;
@@ -78,19 +83,29 @@
       }
     }
     form {
-      input[type=text]{
+
+      textarea, input[type=text], input[type=date] {
+        background-color: transparent;
         border: 1px solid grey;
-        padding: 1em;
         border-radius: 4pt;
         margin: 1em 0 1.2em 0.5em;
+        padding: 1em;
         width: 215pt;
+      }
+
+      p.claims-radio:first-child{
+        top: 1em;
       }
       p.claims-radio{
         color: $grey-80;
-        margin: 0.5em 0;
+        margin: 1.5em 0;
+        position: relative;
+        input{
+          max-width: 2em;
+        }
         label{
           bottom: 0.35em;
-          left: 5pt;
+          left: 0.5em;
           position: relative;
         }
       }
@@ -130,11 +145,15 @@
   }
 }
 
-
-
 /* MEDIA CONSTRAINTS */
-@media( min-width: 0) and ( max-width: 576pt){
-  .claims-init-feat .claims-content-body form input[type=text]{
-    width: 85%;
+@media( max-width: 576px){
+  .claims-init-feat{
+    .claims-content-body{
+      form{
+        textarea, input[type=text], input[type=date] {
+          width: 85%;
+        }
+      }
+    }
   }
 }

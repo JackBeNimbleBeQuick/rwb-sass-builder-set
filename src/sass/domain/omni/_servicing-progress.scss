@@ -1,0 +1,59 @@
+.claims-progress-bar {
+  align-items: normal;
+  display: flex;
+  justify-content: start;
+  list-style: none;
+  margin-bottom: 30px;
+  margin-left: -15px;
+  padding: 0;
+  position: relative;
+  top: 1em;
+  width: calc(100% + 30px);
+  z-index: 0;
+
+  .step:first-child span.claims-pb-bar {
+    display: none;
+  }
+  .step{
+    text-align: center;
+    position: relative;
+    &.active{
+      .claims-pb-bar,
+      .claims-pb-circle {
+        background: $blue;
+      }
+    }
+    .claims-pb-circle {
+      background: rgba(228, 228, 228, 1);
+      border-radius: 50%;
+      display: inline-block;
+      height: 1.2em;
+      position: relative;
+      width: 1.2em;
+      z-index: 1;
+    }
+    width: 25%;
+    font-size: 0.8em;
+
+    .claims-pb-label {
+      display: block;
+      margin-top: 5px;
+      padding: 0 8px;
+    }
+
+    .claims-pb-bar {
+      background: rgba(228, 228, 228, 1);
+      display: inline-block;
+      left: calc(-50% + 0.25em);
+      height: 0.25em;
+      margin-left: 8px;
+      position: absolute;
+      top: 0.5em;
+      width: calc(100% - 2em);
+      z-index: 0;
+      &:nth-type(3n+1){
+        display: none;
+      }
+    }
+  }
+}
