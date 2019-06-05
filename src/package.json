@@ -9,8 +9,10 @@
   },
   "devDependencies": {},
   "watch": {
-    "css" : {
-      "patterns" : ["sass"],
+    "css": {
+      "patterns": [
+        "sass"
+      ],
       "extensions": "scss"
     }
   },
