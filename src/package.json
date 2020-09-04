@@ -4,7 +4,7 @@
   "description": "unified component styles",
   "main": "public/index.html",
   "dependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "serve": "^11.0.0"
   },
   "devDependencies": {},
