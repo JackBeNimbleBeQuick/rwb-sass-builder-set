@@ -5,7 +5,7 @@
   "main": "public/index.html",
   "dependencies": {
     "node-sass": "^7.0.0",
-    "serve": "^11.0.0"
+    "serve": "^14.1.2"
   },
   "devDependencies": {},
   "watch": {
